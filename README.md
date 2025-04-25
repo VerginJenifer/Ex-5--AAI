@@ -13,8 +13,8 @@ Step 4: Update the state estimate based on the measurement using kf.update().<BR
 Step 5: Store the estimated state in a list.<BR>
 Step 6: Plot the true and estimated positions.<BR>
 
-<H3>Program:</H3>
-```
+##Program:
+~~~
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -58,9 +58,9 @@ plt.plot([s[0] for s in est_states],label="Estimate")
 plt.legend()
 plt.show()
 
-```
+~~~
 
-<H3>Output:</H3>
+## Output:
 
 ![aiex5](https://github.com/user-attachments/assets/f1168307-041e-43cc-a073-01be04f608e4)
 
