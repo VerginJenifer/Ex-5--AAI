@@ -58,6 +58,7 @@ plt.show()
 ~~~
 
 <H3>Output:</H3>
+
 ![aiex5](https://github.com/user-attachments/assets/f1168307-041e-43cc-a073-01be04f608e4)
 
 
